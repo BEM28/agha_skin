@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "190742805625",
+    "project_id": "aghaskin-beh-proj",
+    "storage_bucket": "aghaskin-beh-proj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190742805625:android:a4c9b92f7d2425fed0a8a8",
+        "android_client_info": {
+          "package_name": "com.agha.aghaskin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190742805625-tdchv8tlg3a38hohqckid5mhjbhk6roe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJhTQB3ko4cegIy5s5kGOpRkyASKWc7rE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190742805625-tdchv8tlg3a38hohqckid5mhjbhk6roe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
